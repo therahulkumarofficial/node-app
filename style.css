@@ -1,0 +1,47 @@
+/* Add styles here */
+/* style.css */
+
+/* Apply a background color and center the text on the body */
+body {
+    background-color: #f0f8ff; /* Light AliceBlue background */
+    color: #333; /* Dark gray text color */
+    font-family: Arial, sans-serif; /* Arial font for the body text */
+    text-align: center; /* Center text alignment */
+    padding: 20px; /* Add some padding around the body */
+  }
+  
+  /* Style the h1 element */
+  h1 {
+    color: #4682b4; /* SteelBlue color */
+    font-size: 3em; /* Increase font size */
+    margin-bottom: 20px; /* Space below the h1 */
+  }
+  
+  /* Style the p element */
+  p {
+    color: #555; /* Medium gray color */
+    font-size: 1.2em; /* Slightly larger font size */
+    margin: 10px 0; /* Margin above and below the paragraph */
+
+  }
+  
+  /* Style the button */
+  button {
+    background-color: #4caf50; /* Green background */
+    color: white; /* White text color */
+    border: none; /* Remove default border */
+    padding: 10px 20px; /* Add padding inside the button */
+    text-align: center; /* Center text inside the button */
+    text-decoration: none; /* Remove underline */
+    display: inline-block; /* Display as inline-block */
+    font-size: 1em; /* Font size of the button text */
+    margin: 20px; /* Add margin around the button */
+    cursor: pointer; /* Change cursor to pointer on hover */
+    border-radius: 5px; /* Rounded corners */
+  }
+  
+  /* Change button background color on hover */
+  button:hover {
+    background-color: #45a049; /* Darker green background on hover */
+  }
+  
